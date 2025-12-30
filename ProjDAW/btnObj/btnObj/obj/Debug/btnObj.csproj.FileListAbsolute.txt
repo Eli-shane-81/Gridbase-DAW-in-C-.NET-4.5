@@ -1,0 +1,81 @@
+D:\Purab\C#\btnObj\btnObj\bin\Debug\btnObj.exe.config
+D:\Purab\C#\btnObj\btnObj\obj\Debug\btnObj.csprojResolveAssemblyReference.cache
+D:\Purab\C#\btnObj\btnObj\obj\Debug\btnObj.Properties.Resources.resources
+D:\Purab\C#\btnObj\btnObj\obj\Debug\btnObj.csproj.GenerateResource.Cache
+D:\Purab\C#\btnObj\btnObj\obj\Debug\btnobj.Form1.resources
+D:\Purab\C#\btnObj\btnObj\bin\Debug\btnObj.exe
+D:\Purab\C#\btnObj\btnObj\bin\Debug\btnObj.pdb
+D:\Purab\C#\btnObj\btnObj\obj\Debug\btnObj.exe
+D:\Purab\C#\btnObj\btnObj\obj\Debug\btnObj.pdb
+D:\Purab\C#\btnObj\btnObj\bin\Debug\NAudio.dll
+D:\Purab\C#\btnObj\btnObj\bin\Debug\NAudio.xml
+D:\C#\DAW\btnObj\btnObj\bin\Debug\btnObj.exe.config
+D:\C#\DAW\btnObj\btnObj\obj\Debug\btnObj.exe
+D:\C#\DAW\btnObj\btnObj\obj\Debug\btnObj.pdb
+D:\C#\DAW\btnObj\btnObj\bin\Debug\btnObj.exe
+D:\C#\DAW\btnObj\btnObj\bin\Debug\btnObj.pdb
+D:\C#\DAW\btnObj\btnObj\bin\Debug\NAudio.xml
+D:\C#\DAW\btnObj\btnObj\obj\Debug\btnObj.csprojResolveAssemblyReference.cache
+D:\C#\DAW\btnObj\btnObj\obj\Debug\btnObj.Form1.resources
+D:\C#\DAW\btnObj\btnObj\obj\Debug\btnObj.Properties.Resources.resources
+D:\C#\DAW\btnObj\btnObj\obj\Debug\btnObj.csproj.GenerateResource.Cache
+D:\Purab\C#\btnObj\btnObj\btnObj\btnObj\bin\Debug\btnObj.exe.config
+D:\Purab\C#\btnObj\btnObj\btnObj\btnObj\obj\Debug\btnObj.exe
+D:\Purab\C#\btnObj\btnObj\btnObj\btnObj\obj\Debug\btnObj.pdb
+D:\Purab\C#\btnObj\btnObj\btnObj\btnObj\bin\Debug\btnObj.exe
+D:\Purab\C#\btnObj\btnObj\btnObj\btnObj\bin\Debug\btnObj.pdb
+D:\Purab\C#\btnObj\btnObj\btnObj\btnObj\bin\Debug\NAudio.xml
+D:\Purab\C#\btnObj\btnObj\btnObj\btnObj\obj\Debug\btnObj.csprojResolveAssemblyReference.cache
+D:\Purab\C#\btnObj\btnObj\btnObj\btnObj\obj\Debug\btnObj.Form1.resources
+D:\Purab\C#\btnObj\btnObj\btnObj\btnObj\obj\Debug\btnObj.Properties.Resources.resources
+D:\Purab\C#\btnObj\btnObj\btnObj\btnObj\obj\Debug\btnObj.csproj.GenerateResource.Cache
+D:\C#\btnObj\btnObj\bin\Debug\btnObj.exe.config
+D:\C#\btnObj\btnObj\obj\Debug\btnObj.exe
+D:\C#\btnObj\btnObj\obj\Debug\btnObj.pdb
+D:\C#\btnObj\btnObj\bin\Debug\btnObj.exe
+D:\C#\btnObj\btnObj\bin\Debug\btnObj.pdb
+D:\C#\btnObj\btnObj\bin\Debug\NAudio.dll
+D:\C#\btnObj\btnObj\bin\Debug\NAudio.xml
+D:\C#\btnObj\btnObj\obj\Debug\btnObj.Properties.Resources.resources
+D:\C#\btnObj\btnObj\obj\Debug\btnObj.csproj.GenerateResource.Cache
+D:\C#\btnObj\btnObj\obj\Debug\btnObj.csprojResolveAssemblyReference.cache
+C:\Users\PC41\Desktop\btnObjORG\btnObj\bin\Debug\btnObj.exe.config
+C:\Users\PC41\Desktop\btnObjORG\btnObj\obj\Debug\btnObj.exe
+C:\Users\PC41\Desktop\btnObjORG\btnObj\obj\Debug\btnObj.pdb
+C:\Users\PC41\Desktop\btnObjORG\btnObj\bin\Debug\btnObj.exe
+C:\Users\PC41\Desktop\btnObjORG\btnObj\bin\Debug\btnObj.pdb
+C:\Users\PC41\Desktop\btnObjORG\btnObj\bin\Debug\NAudio.xml
+C:\Users\PC41\Desktop\btnObjORG\btnObj\obj\Debug\btnObj.csprojResolveAssemblyReference.cache
+C:\Users\PC41\Desktop\btnObjORG\btnObj\obj\Debug\btnObj.Form1.resources
+C:\Users\PC41\Desktop\btnObjORG\btnObj\obj\Debug\btnObj.Properties.Resources.resources
+C:\Users\PC41\Desktop\btnObjORG\btnObj\obj\Debug\btnObj.csproj.GenerateResource.Cache
+D:\C#\btnObj\btnObj\bin\Debug\NAudio.Lame.dll
+D:\C#\btnObj\btnObj\bin\Debug\libmp3lame.32.dll
+D:\pub\btnObj\btnObj\bin\Debug\btnObj.exe.config
+D:\pub\btnObj\btnObj\obj\Debug\btnObj.exe
+D:\pub\btnObj\btnObj\obj\Debug\btnObj.csprojResolveAssemblyReference.cache
+D:\pub\btnObj\btnObj\obj\Debug\btnObj.Form1.resources
+D:\pub\btnObj\btnObj\obj\Debug\btnObj.Properties.Resources.resources
+D:\pub\btnObj\btnObj\obj\Debug\btnObj.csproj.GenerateResource.Cache
+D:\pub\btnObj\btnObj\bin\Debug\libmp3lame.32.dll
+D:\pub\btnObj\btnObj\bin\Debug\btnObj.exe
+D:\pub\btnObj\btnObj\bin\Debug\btnObj.pdb
+D:\pub\btnObj\btnObj\bin\Debug\NAudio.xml
+D:\pub\btnObj\btnObj\obj\Debug\btnObj.pdb
+D:\C#\btnObj\btnObj\obj\Debug\btnObj.PebbleTap.resources
+D:\C#\DAW\Proj. DAW\btnObj\btnObj\bin\Debug\btnObj.exe.config
+D:\C#\DAW\Proj. DAW\btnObj\btnObj\obj\Debug\btnObj.exe
+D:\C#\DAW\Proj. DAW\btnObj\btnObj\obj\Debug\btnObj.pdb
+D:\C#\DAW\Proj. DAW\btnObj\btnObj\bin\Debug\libmp3lame.32.dll
+D:\C#\DAW\Proj. DAW\btnObj\btnObj\bin\Debug\btnObj.exe
+D:\C#\DAW\Proj. DAW\btnObj\btnObj\bin\Debug\btnObj.pdb
+D:\C#\DAW\Proj. DAW\btnObj\btnObj\bin\Debug\NAudio.dll
+D:\C#\DAW\Proj. DAW\btnObj\btnObj\bin\Debug\NAudio.Lame.dll
+D:\C#\DAW\Proj. DAW\btnObj\btnObj\bin\Debug\NAudio.xml
+D:\C#\DAW\Proj. DAW\btnObj\btnObj\obj\Debug\btnObj.csprojResolveAssemblyReference.cache
+D:\C#\DAW\Proj. DAW\btnObj\btnObj\obj\Debug\btnObj.PebbleTap.resources
+D:\C#\DAW\Proj. DAW\btnObj\btnObj\obj\Debug\btnObj.Properties.Resources.resources
+D:\C#\DAW\Proj. DAW\btnObj\btnObj\obj\Debug\btnObj.csproj.GenerateResource.Cache
+D:\Purab\gituplod\ProjDAW\btnObj\btnObj\bin\Debug\btnObj.exe.config
+D:\Purab\gituplod\ProjDAW\btnObj\btnObj\obj\Debug\btnObj.exe
+D:\Purab\gituplod\ProjDAW\btnObj\btnObj\obj\Debug\btnObj.pdb
