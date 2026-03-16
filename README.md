@@ -2,9 +2,7 @@
 A grid-based Digital Audio Workstation (DAW) built in C# (.NET Framework 4.5) using NAudio, focused on simple sequencing and audio playback with file export(MID,MP3,WAV) config with database.
 
 This app is basicelly build for the users who want to learn DAW without worrying about all the complex functionalities and file management.
-The database used while building this app is Microsoft SQL SERVRE 2012 version :- 
-
-Microsoft SQL Server Management Studio - 11.0.2100.60
+The database used while building this app is Microsoft SQL SERVRE Management Studio 2012 version - 11.0.2100.60
 
 The libraries used are NAudio(1.7.3) and NAudio.Lame(1.0.7). That contains all the audio handeling and methods.
 
